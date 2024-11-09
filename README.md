@@ -2,10 +2,11 @@
 
 I'm Sunod Kumar
 
+
 - 🔭 I’m currently working on [SaaS](https://github.com/sundmongia/saas)
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Python(django), AI & ML, Javascript
 - 📫 How to reach me: [Email](mailto:sunodmongia2003@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sunod-kumar)
-- ⚡ Fun fact: I specialize in laser electronics and physics!
+- ⚡ Fun fact: I'm excellent in Maths!
 
 ---
 
