@@ -6,7 +6,8 @@ I'm Sunod Kumar
 - 🌱 I’m currently learning Python(django), AI & ML, Javascript
 - 📫 How to reach me: [Email](mailto:sunodmongia2003@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sunod-kumar) | [Instagram](https://www.instagram.com/sunodmongia)
 - ⚡ Fun fact: I'm excellent in Maths!
-- ▶️ I have established and successfully monetized a YouTube channel.
+- ▶️ I have established and successfully monetized a YouTube channel. | [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@ManjuMongia)
+
 
 ---
 ### 💻 [IT Analyst(Intern)] - [Oil and Natural Gas Coporation(ONGC)]
