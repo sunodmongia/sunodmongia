@@ -1,4 +1,4 @@
-# About Me:
+# 🌠About Me:
 
 I'm Sunod Kumar
 
@@ -8,6 +8,13 @@ I'm Sunod Kumar
 - ⚡ Fun fact: I'm excellent in Maths!
 - ▶️ I have established and successfully monetized a YouTube channel.
 
+--
+### 💻 [IT Analyst(Intern)] - [Oil and Natural Gas Coporation(ONGC)]
+*Dates of Employment: July 2024–Aug 2024*
+
+- Achieved Security and Compliance, System Analysis and Improvement and many more skills under my Mentor.
+- In addition to, I skilled myself in Computer Networking and Network design of the ONGC.
+  
 ---
 
 ### 🛠️ Languages and Tools:
