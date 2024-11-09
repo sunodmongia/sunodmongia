@@ -20,8 +20,8 @@ I'm Sunod Kumar
 ---
 
 ### 🛠️ Languages and Tools:
-[![C](https://img.shields.io/badge/-C-333?logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C](https://img.shields.io/badge/-C-333?logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)
 [![Python](https://img.shields.io/badge/-Python-333?logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-333?logo=django)](https://www.djangoproject.com/)
 [![HTML](https://img.shields.io/badge/-HTML-333?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
