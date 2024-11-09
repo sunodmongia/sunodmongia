@@ -25,10 +25,9 @@ I'm Sunod Kumar
 [![Pandas](https://img.shields.io/badge/-Pandas-333?logo=pandas)](https://pandas.pydata.org/)
 
 
----
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunodmongia&layout=default&theme=radical)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunodmongia&layout=compact&theme=dark)
 
 
-### 📊 GitHub Stats:
+📊 GitHub Stats:
 ![Sunod Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=sunodmongia&show_icons=true&theme=radical)
