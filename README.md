@@ -7,7 +7,8 @@ I'm Sunod Kumar
 - 🌱 I’m currently learning Python(django), AI & ML, Javascript
 - 📫 How to reach me: [Email](mailto:sunodmongia2003@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sunod-kumar)
 - ⚡ Fun fact: I'm excellent in Maths!
-- [![YouTube](https://img.shields.io/badge/-YouTube-092E20?logo=YouTube&logoColor=white)](https://www.youtube.com/)
+- ▶️ [YouTube](https://www.youtube.com/)
+
 ---
 
 ### 🛠️ Languages and Tools:
