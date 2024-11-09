@@ -5,9 +5,9 @@ I'm Sunod Kumar
 
 - 🔭 I’m currently working on [SaaS](https://github.com/sundmongia/saas)
 - 🌱 I’m currently learning Python(django), AI & ML, Javascript
-- 📫 How to reach me: [Email](mailto:sunodmongia2003@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sunod-kumar)
+- 📫 How to reach me: [Email](mailto:sunodmongia2003@gmail.com) | [LinkedIn](https://www.linkedin.com/in/sunod-kumar) | [Instagram](https://www.instagram.com/sunodmongia)
 - ⚡ Fun fact: I'm excellent in Maths!
-- ▶️ [YouTube](https://www.youtube.com/)
+- ▶️ I have established and successfully monetized a YouTube channel.
 
 ---
 
