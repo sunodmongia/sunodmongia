@@ -27,7 +27,7 @@ I'm Sunod Kumar
 
 ---
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunodmongia&layout=default&theme=radical)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunodmongia&layout=default&theme=radical)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunodmongia&layout=compact&theme=dark)
 
 
 ### 📊 GitHub Stats:
