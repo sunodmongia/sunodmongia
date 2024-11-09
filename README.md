@@ -8,7 +8,7 @@ I'm Sunod Kumar
 - ⚡ Fun fact: I'm excellent in Maths!
 - ▶️ I have established and successfully monetized a YouTube channel.
 
---
+---
 ### 💻 [IT Analyst(Intern)] - [Oil and Natural Gas Coporation(ONGC)]
 *Dates of Employment: July 2024–Aug 2024*
 
