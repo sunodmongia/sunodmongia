@@ -2,7 +2,7 @@
 
 I'm Sunod Kumar
 
-- 🔭 I’m currently working on [SaaS](https://github.com/sundmongia/saas)
+- 🔭 I’m currently working on [SaaS](https://github.com/sunodmongia/saas)
 - 🌱 I’m currently learning Python(django), AI & ML, Javascript
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sunodmongia2003@gmail.com) |
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunod-kumar) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sunodmongia)
