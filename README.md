@@ -1,7 +1,6 @@
-# Hi there 👋
+# About Me:
 
 I'm Sunod Kumar
-
 
 - 🔭 I’m currently working on [SaaS](https://github.com/sundmongia/saas)
 - 🌱 I’m currently learning Python(django), AI & ML, Javascript
