@@ -17,4 +17,4 @@ I'm Sunod Kumar
 ---
 
 ### 📊 GitHub Stats:
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunodmongia&show_icons=true&theme=radical)
