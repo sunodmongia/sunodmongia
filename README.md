@@ -34,7 +34,7 @@ I'm Sunod Kumar
 [![SQL](https://img.shields.io/badge/-SQL-333?logo=sqlite)](https://www.sqlite.org/)
 [![MySQL](https://img.shields.io/badge/-MySQL-333?logo=mysql)](https://www.mysql.com/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql)](https://www.postgresql.org/)
-[![REST APIs](https://img.shields.io/badge/-REST_APIs-333?logo=api)](https://en.wikipedia.org/wiki/Representational_state_transfer)
+[![REST API](https://img.shields.io/badge/-REST_API-333?logo=api&logoColor=white)](https://restfulapi.net/)
 [![Computer Networking](https://img.shields.io/badge/-Networking-333?logo=cisco)](https://en.wikipedia.org/wiki/Computer_network)
 [![NumPy](https://img.shields.io/badge/-NumPy-333?logo=numpy)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-333?logo=pandas)](https://pandas.pydata.org/)
