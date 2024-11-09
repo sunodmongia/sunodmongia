@@ -9,7 +9,7 @@ I'm Sunod Kumar
 
 ---
 
-🛠️ Languages and Tools:
+### 🛠️ Languages and Tools:
 [![Python](https://img.shields.io/badge/-Python-333?logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-333?logo=django)](https://www.djangoproject.com/)
 [![HTML](https://img.shields.io/badge/-HTML-333?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -24,7 +24,7 @@ I'm Sunod Kumar
 [![NumPy](https://img.shields.io/badge/-NumPy-333?logo=numpy)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-333?logo=pandas)](https://pandas.pydata.org/)
 
-
+---
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunodmongia&layout=compact&theme=dark)
 
