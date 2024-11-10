@@ -11,7 +11,8 @@ I'm Sunod Kumar
 
 
 ---
-### 💻 IT Analyst(Intern) - Oil and Natural Gas Coporation(ONGC)
+### 🧮Experience:
+# 💻 IT Analyst(Intern) - Oil and Natural Gas Coporation(ONGC)
 *Dates of Employment: July 2024–Aug 2024*
 
 - Achieved Security and Compliance, System Analysis and Improvement and many more skills under my Mentor.
