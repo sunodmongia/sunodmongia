@@ -33,9 +33,9 @@ I'm Sunod Kumar
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/-SQL-333?logo=sqlite)](https://www.sqlite.org/)
-[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)]
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
 [![Git](https://img.shields.io/badge/-Git-333?logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)]
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Computer Networking](https://img.shields.io/badge/-Networking-333?logo=cisco)](https://en.wikipedia.org/wiki/Computer_network)
 [![NumPy](https://img.shields.io/badge/-NumPy-333?logo=numpy)](https://numpy.org/)
