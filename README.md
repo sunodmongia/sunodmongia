@@ -3,6 +3,7 @@
 I'm Sunod Kumar
 
 - 🔭 I’m currently working on [SaaS](https://github.com/sunodmongia/saas)
+- 👁️ Looking for collab or work
 - 🌱 I’m currently learning Python(django), AI & ML, Javascript
 - 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sunodmongia2003@gmail.com) |
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunod-kumar) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sunodmongia)
@@ -21,24 +22,25 @@ I'm Sunod Kumar
 ---
 
 ### 🛠️ Languages and Tools:
-[![C](https://img.shields.io/badge/-C-333?logo=c&logoColor=white)](https://en.cppreference.com/w/c)
-[![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
+[![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-333?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Python](https://img.shields.io/badge/-Python-333?logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-333?logo=django)](https://www.djangoproject.com/)
-[![HTML](https://img.shields.io/badge/-HTML-333?logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS](https://img.shields.io/badge/-CSS-333?logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?logo=bootstrap)](https://getbootstrap.com/)
-[![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333?logo=tailwind-css)](https://tailwindcss.com/)
-[![Git](https://img.shields.io/badge/-Git-333?logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/-GitHub-333?logo=github)](https://github.com/)
-[![Postman](https://img.shields.io/badge/-Postman-333?logo=postman)](https://www.postman.com/)
+[![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/-SQL-333?logo=sqlite)](https://www.sqlite.org/)
-[![MySQL](https://img.shields.io/badge/-MySQL-333?logo=mysql)](https://www.mysql.com/)
-[![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?logo=postgresql)](https://www.postgresql.org/)
-[![REST API](https://img.shields.io/badge/-REST_API-333?logo=api&logoColor=white)](https://restfulapi.net/)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)]
+[![Git](https://img.shields.io/badge/-Git-333?logo=git)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)]
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Computer Networking](https://img.shields.io/badge/-Networking-333?logo=cisco)](https://en.wikipedia.org/wiki/Computer_network)
 [![NumPy](https://img.shields.io/badge/-NumPy-333?logo=numpy)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-333?logo=pandas)](https://pandas.pydata.org/)
+
 
 ---
 ### 🖥️ Language used:
