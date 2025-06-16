@@ -13,11 +13,10 @@ I'm Sunod Kumar
 
 ---
 ### 🧮Experience:
-# 💻 IT Analyst(Intern) - Oil and Natural Gas Coporation(ONGC)
-*Dates of Employment: July 2024–Aug 2024*
+# 💻 Network Engineer(Intern) - Oil and Natural Gas Coporation(ONGC)
+*Dates of Employment: July 2024 – Aug 2024*
 
-- Achieved Security and Compliance, System Analysis and Improvement and many more skills under my Mentor.
-- In addition to, I skilled myself in Computer Networking and Network design of the ONGC.
+- Achieved Security and Compliance, System Analysis and Improvement and many more skills under my Mentor. And I skilled myself in Computer Networking and Network design of the ONGC.
   
 ---
 
