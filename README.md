@@ -36,6 +36,7 @@ I'm Sunod Kumar
 [![NumPy](https://img.shields.io/badge/-NumPy-333?logo=numpy)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-333?logo=pandas)](https://pandas.pydata.org/)
 [![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?logo=matplotlib)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org/)
 
 
 
