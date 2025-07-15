@@ -23,20 +23,25 @@ I'm Sunod Kumar
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://en.cppreference.com/w/c)
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)](https://en.cppreference.com/w/cpp)
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Python](https://img.shields.io/badge/-Python-333?logo=python)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/-Django-333?logo=django)](https://www.djangoproject.com/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
 [![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![SQL](https://img.shields.io/badge/-SQL-333?logo=sqlite)](https://www.sqlite.org/)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![RESTful API](https://img.shields.io/badge/RESTful%20API-000000?style=flat-square&logo=api&logoColor=white)](https://en.wikipedia.org/wiki/Representational_state_transfer)
 [![Git](https://img.shields.io/badge/-Git-333?logo=git)](https://git-scm.com/)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](https://www.postman.com/)
 [![Computer Networking](https://img.shields.io/badge/-Networking-333?logo=cisco)](https://en.wikipedia.org/wiki/Computer_network)
-[![NumPy](https://img.shields.io/badge/-NumPy-333?logo=numpy)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/-Pandas-333?logo=pandas)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/-Matplotlib-333?logo=matplotlib)](https://matplotlib.org/)
+[![NumPy](https://img.shields.io/badge/-NumPy-333?logo=numpy)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=flat-square&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+
 
 
 
