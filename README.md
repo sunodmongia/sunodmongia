@@ -15,7 +15,9 @@ I'm Sunod Kumar
 *Dates of Employment: July 2024 – Aug 2024*
 
 - Achieved Security and Compliance, System Analysis and Improvement and many more skills under my Mentor. And I skilled myself in Computer Networking and Network design of the ONGC.
-  
+
+# Summer Intern - Defense Research & Developement Organisation (DRDO)
+**_Dates of Employment: July 2024 - Present_**
 ---
 
 ### 🛠️ Languages and Tools:
