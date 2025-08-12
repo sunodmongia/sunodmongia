@@ -52,9 +52,13 @@ _Dates of Employment: July 2025 - Present_
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunodmongia&layout=compact&theme=dark)
 
 ---
-### 📊 GitHub Stats:
+
+### 📊 GitHub Stats
+
 ![Sunod Kumar GitHub stats](https://github-readme-stats.vercel.app/api?username=sunodmongia&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=sunodmongia&theme=dark&hide_border=false)<br/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sunodmongia&theme=dark&hide_border=false)
+
 
 
 ---
