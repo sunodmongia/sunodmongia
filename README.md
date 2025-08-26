@@ -17,8 +17,10 @@ I'm Sunod Kumar
 - Achieved Security and Compliance, System Analysis and Improvement and many more skills under my Mentor. And I skilled myself in Computer Networking and Network design of the ONGC.
 
 # 💻 Summer Intern - Defense Research & Developement Organisation (DRDO)
-_Dates of Employment: July 2025 - Present_
+_Dates of Employment: July 2025 - Aug 2025_
 
+- Trained in Cybersecurity, Cryptography, and Network Security, with hands-on experience in penetration testing, vulnerability assessment, and exploitation techniques using tools like Metasploit, Wireshark, and Nmap.
+- Researched and applied secure communication protocols and encryption algorithms (AES, RSA, ECC), while preparing technical reports and recommendations for strengthening defense mechanisms.
 ---
 
 ### 🛠️ Languages and Tools:
