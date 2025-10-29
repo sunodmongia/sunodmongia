@@ -11,7 +11,7 @@ I'm Sunod Kumar
 
 ---
 ### 🧮Experience:
-# 💻 Network Engineer(Intern) - Oil and Natural Gas Coporation(ONGC)
+# 💻 Python Developer (Intern) - Oil and Natural Gas Coporation(ONGC)
 *Dates of Employment: July 2024 – Aug 2024*
 
 - Enthusiastic and analytical AI/ML developer skilled in applying machine learning and data science techniques to solve real-world problems. Proficient in building predictive models, analyzing large datasets, and automating insights using Python. Passionate about leveraging artificial intelligence to support ONGC’s mission in energy exploration, production forecasting, and operational optimization.
@@ -19,8 +19,9 @@ I'm Sunod Kumar
 # 💻 Summer Intern - Defense Research & Development Organisation (DRDO)
 _Dates of Employment: July 2025 - Aug 2025_
 
-- Trained in Cybersecurity, Cryptography, and Network Security, with hands-on experience in penetration testing, vulnerability assessment, and exploitation techniques using tools like Metasploit, Wireshark, and Nmap.
-- Researched and applied secure communication protocols and encryption algorithms (AES, RSA, ECC), while preparing technical reports and recommendations for strengthening defense mechanisms.
+- Underwent specialized training in Cybersecurity, Cryptography, and Network Security, focusing on real-world defense applications and secure infrastructure design.
+- Gained hands-on experience in penetration testing, vulnerability assessment, and exploitation techniques using industry-grade tools such as Metasploit and Nmap.
+- Researched, implemented, and analyzed secure communication protocols and encryption algorithms (AES, RSA, ECC) to evaluate system robustness against modern attack vectors.
 ---
 
 ### 🛠️ Languages and Tools:
