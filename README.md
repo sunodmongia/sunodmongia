@@ -14,7 +14,7 @@ I'm Sunod Kumar
 # 💻 Network Engineer(Intern) - Oil and Natural Gas Coporation(ONGC)
 *Dates of Employment: July 2024 – Aug 2024*
 
-- Achieved Security and Compliance, System Analysis and Improvement and many more skills under my Mentor. And I skilled myself in Computer Networking and Network design of the ONGC.
+- Enthusiastic and analytical AI/ML developer skilled in applying machine learning and data science techniques to solve real-world problems. Proficient in building predictive models, analyzing large datasets, and automating insights using Python. Passionate about leveraging artificial intelligence to support ONGC’s mission in energy exploration, production forecasting, and operational optimization.
 
 # 💻 Summer Intern - Defense Research & Development Organisation (DRDO)
 _Dates of Employment: July 2025 - Aug 2025_
