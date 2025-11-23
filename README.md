@@ -11,10 +11,10 @@ I'm Sunod Kumar
 
 ---
 ### 🧮Experience:
-# 💻 Python Developer (Intern) - Oil and Natural Gas Coporation(ONGC)
+# 💻Intern - Oil and Natural Gas Coporation(ONGC)
 *Dates of Employment: July 2024 – Aug 2024*
 
-- Enthusiastic and analytical AI/ML developer skilled in applying machine learning and data science techniques to solve real-world problems. Proficient in building predictive models, analyzing large datasets, and automating insights using Python. Passionate about leveraging artificial intelligence to support ONGC’s mission in energy exploration, production forecasting, and operational optimization.
+- AI/ML Engineer focused on developing predictive models and data-driven solutions for the energy sector. Currently working on end-to-end machine learning pipelines for geospatial analysis, production forecasting, and operational optimization. Experienced with large-scale data cleaning, feature engineering, and model development using Pandas, NumPy, scikit-learn, and TensorFlow. Applying practical AI techniques to challenges such as reservoir behavior prediction, anomaly detection, and efficiency improvement in exploration and production workflows.
 
 # 💻 Summer Intern - Defense Research & Development Organisation (DRDO)
 _Dates of Employment: July 2025 - Aug 2025_
