@@ -3,7 +3,7 @@
 I'm Sunod Kumar
 
 - 👁️ Interested in work
-- 🌱 I’m currently on AI/ML.
+- 🌱 I’m currently on AI/ML and Django.
 - 📫 How to reach me:[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sunod-kumar) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/sunodmongia)
 - ⚡ Fun fact: I'm excellent in Maths!
         [![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@ManjuMongia) I have established and successfully     monetized a YouTube channel.
