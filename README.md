@@ -52,7 +52,7 @@ _Dates of Employment: July 2025 - Aug 2025_
 
 ---
 ### 🖥️ Language used:
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sunodmongia&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
